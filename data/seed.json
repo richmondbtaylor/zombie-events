@@ -1,0 +1,46 @@
+{
+  "events": [
+    { "id": "e1", "title": "Miami AI Builders Meetup", "startsAt": "2026-11-12T18:30", "location": "Wynwood Co-Work, 2250 NW 2nd Ave, Miami", "description": "Demos, pizza and people who build with AI. Bring a laptop.", "capacity": 40, "price": 0, "color": "#4b36d9" },
+    { "id": "e2", "title": "Brickell Founders Breakfast", "startsAt": "2026-11-19T08:00", "location": "Coffee Corner, Brickell Ave, Miami", "description": "Small breakfast for early-stage founders. Coffee included.", "capacity": 12, "price": 15, "color": "#c2410c" },
+    { "id": "e3", "title": "Vibe Coding Workshop", "startsAt": "2026-12-03T17:00", "location": "Miami Dade College, Wolfson Campus", "description": "Hands-on class: ship your first app in one evening.", "capacity": 3, "price": 25, "color": "#0e7c86" },
+    { "id": "e4", "title": "Holiday Night Market Social", "startsAt": "2026-12-10T19:00", "location": "Little Havana Plaza, Miami", "description": "Music, food stalls and good company.", "capacity": 100, "price": 0, "color": "#be185d" },
+    { "id": "e5", "title": "Year-End Demo Night", "startsAt": "2026-12-17T18:00", "location": "Downtown Miami Library Auditorium", "description": "Five-minute demos from the community. Vote for your favorite.", "capacity": 60, "price": 10, "color": "#1d4ed8" },
+    { "id": "e6", "title": "Coral Gables Small Business Mixer", "startsAt": "2026-11-24T18:00", "location": "Miracle Mile Meeting Room, Coral Gables", "description": "Meet local shop owners and swap ideas on getting customers.", "capacity": 8, "price": 0, "color": "#15803d" },
+    { "id": "e7", "title": "Wynwood Demo Night", "startsAt": "2026-10-15T19:00", "location": "Wynwood Co-Work, 2250 NW 2nd Ave, Miami", "description": "Short demos from local builders. This one already happened.", "capacity": 30, "price": 0, "color": "#4b36d9" },
+    { "id": "e8", "title": "Beach Cleanup and Coffee", "startsAt": "2026-10-03T09:00", "location": "South Pointe Park, Miami Beach", "description": "Pick up trash, then coffee on us. This one already happened.", "capacity": 25, "price": 0, "color": "#0e7c86" }
+  ],
+  "rsvps": [
+    { "id": "r1", "eventId": "e1", "name": "Maria Lopez", "email": "maria@example.com", "checkedIn": false },
+    { "id": "r2", "eventId": "e1", "name": "James Carter", "email": "james@example.com", "checkedIn": false },
+    { "id": "r3", "eventId": "e1", "name": "Aisha Rahman", "email": "aisha@example.com", "checkedIn": false },
+    { "id": "r8", "eventId": "e1", "name": "Hector Alvarez", "email": "hector@example.com", "checkedIn": false },
+    { "id": "r9", "eventId": "e1", "name": "Grace Kim", "email": "grace@example.com", "checkedIn": false },
+    { "id": "r10", "eventId": "e1", "name": "Owen Baker", "email": "owen@example.com", "checkedIn": false },
+    { "id": "r4", "eventId": "e2", "name": "Tom Nguyen", "email": "tom@example.com", "checkedIn": false },
+    { "id": "r11", "eventId": "e2", "name": "Rosa Delgado", "email": "rosa@example.com", "checkedIn": false },
+    { "id": "r5", "eventId": "e3", "name": "Elena Ruiz", "email": "elena@example.com", "checkedIn": false },
+    { "id": "r6", "eventId": "e3", "name": "Sam Patel", "email": "sam@example.com", "checkedIn": false },
+    { "id": "r7", "eventId": "e3", "name": "Linda Brooks", "email": "linda@example.com", "checkedIn": false },
+    { "id": "r12", "eventId": "e4", "name": "Carlos Mendez", "email": "carlos@example.com", "checkedIn": false },
+    { "id": "r13", "eventId": "e4", "name": "Priya Shah", "email": "priya@example.com", "checkedIn": false },
+    { "id": "r14", "eventId": "e5", "name": "Diego Silva", "email": "diego@example.com", "checkedIn": false },
+    { "id": "r15", "eventId": "e6", "name": "Nadia Petrov", "email": "nadia@example.com", "checkedIn": false },
+    { "id": "r16", "eventId": "e6", "name": "Maria Lopez", "email": "maria@example.com", "checkedIn": false },
+    { "id": "r17", "eventId": "e6", "name": "Grace Kim", "email": "grace@example.com", "checkedIn": false },
+    { "id": "r18", "eventId": "e6", "name": "Hector Alvarez", "email": "hector@example.com", "checkedIn": false },
+    { "id": "r19", "eventId": "e6", "name": "Rosa Delgado", "email": "rosa@example.com", "checkedIn": false },
+    { "id": "r20", "eventId": "e6", "name": "Tom Nguyen", "email": "tom@example.com", "checkedIn": false },
+    { "id": "r21", "eventId": "e6", "name": "Linda Brooks", "email": "linda@example.com", "checkedIn": false },
+    { "id": "r22", "eventId": "e7", "name": "Owen Baker", "email": "owen@example.com", "checkedIn": true },
+    { "id": "r23", "eventId": "e7", "name": "Aisha Rahman", "email": "aisha@example.com", "checkedIn": true },
+    { "id": "r24", "eventId": "e7", "name": "Sam Patel", "email": "sam@example.com", "checkedIn": true },
+    { "id": "r25", "eventId": "e7", "name": "Elena Ruiz", "email": "elena@example.com", "checkedIn": false },
+    { "id": "r26", "eventId": "e8", "name": "Carlos Mendez", "email": "carlos@example.com", "checkedIn": true },
+    { "id": "r27", "eventId": "e8", "name": "Priya Shah", "email": "priya@example.com", "checkedIn": true },
+    { "id": "r28", "eventId": "e8", "name": "Diego Silva", "email": "diego@example.com", "checkedIn": true }
+  ],
+  "waitlist": [
+    { "id": "w1", "eventId": "e3", "name": "Nadia Petrov", "email": "nadia@example.com", "joinedAt": "2026-10-26T14:10:00.000Z" },
+    { "id": "w2", "eventId": "e3", "name": "Owen Baker", "email": "owen@example.com", "joinedAt": "2026-10-27T09:45:00.000Z" }
+  ]
+}
